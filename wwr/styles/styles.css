@@ -24,11 +24,11 @@ main section {
 
 body {
     background-color: #0F98FA;
-    font-family: Georgia, 'Times New Roman';
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .home-title {
-    font-family: Verdana, Tahoma;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 header {
