@@ -23,7 +23,13 @@ main section {
 }
 
 body {
-#
+    background-color: #0F98FA;
+    font-family: Georgia, 'Times New Roman';
+}
+
+.home-title {
+    font-family: Verdana, Tahoma;
+}
 
 header {
   background-color: #435745;
