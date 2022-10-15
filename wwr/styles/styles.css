@@ -43,7 +43,6 @@ nav a:hover {
     background-color: #989C94; 
     text-decoration: none;
     color: #0F98FA;
-    font-size: 18px;
 }
 .book:hover, .join:hover {
     background-color: #989C94;
@@ -81,7 +80,6 @@ h4 {
 
 .msg p {
     color:#435745;
-    font-size: .8em;
 }
 
 footer a {
