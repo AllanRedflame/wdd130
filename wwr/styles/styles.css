@@ -84,6 +84,7 @@ nav a {
 
 .home-title {
     color:#BFBFBF;
+    margin-top: 10px;
 }
 
 h4 {
@@ -105,6 +106,7 @@ h4 {
 footer a {
     color: #435745;
     text-decoration: none;
+    
 }
 
 footer a:hover {
