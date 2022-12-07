@@ -239,7 +239,7 @@ nav {
 }
 
 .msg {
-    grid-: 6/10;
+    grid-column: 6/10;
     grid-row: 6/7;
 }
 
