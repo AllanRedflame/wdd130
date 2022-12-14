@@ -77,9 +77,44 @@ p {
 .colors th {
   background-color: #999;
 }
-.colors td{
+.colors td {
   width: 25%;
   height: 3em;
+}
+
+.website-logo {
+  width: auto;
+  height: 550px;
+}
+
+.tree-image{
+  width: auto;
+  height: 550px;
+}
+
+.bulb-image {
+  width: auto;
+  height: 550px;
+}
+
+.study-image{
+  width: auto;
+  height: 450px;
+}
+
+.top-down-books {
+  width: auto;
+  height: 550px;
+}
+
+.brigham_city_temple {
+  width: auto;
+  height: 550px;
+}
+
+.rings-image {
+  width: auto;
+  height: 450px;
 }
 
 .primary {
