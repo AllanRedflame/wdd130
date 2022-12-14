@@ -113,7 +113,6 @@ h1 {
 
 .first-content-box {
     display:grid;
-    grid-column: repeat(4, 1fr);
     grid-column-gap: 20px;
 }
 
@@ -133,7 +132,6 @@ h1 {
 
 .second-content-box {
     display: grid;
-    grid-column: repeat(4, 1fr);
     grid-column-gap: 20px;
 }
 
