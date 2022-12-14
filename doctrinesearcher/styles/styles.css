@@ -1,0 +1,151 @@
+.site-content{
+    max-width: 1800px;
+    margin: 0 auto;
+    background-color: #d7deff;
+}
+
+body {
+    background-color: #000970;
+    font-family: 'Archivo', Courier, monospace;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    font-family: 'Archivo+Narrow', Courier, monospace;
+}
+
+header {
+    display:grid;
+    background-color: #0E44C2;
+    grid-template-columns: 150px auto;
+}
+
+.logo-header {
+    width: 220px;
+    margin-top: 6px;
+}
+
+nav a {
+    color:#E2B328;
+    text-align: center; 
+    text-decoration: none;
+    padding: 35px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    font-size: 50px;
+} 
+
+nav a:hover{
+    background-color: #E2B328;
+    color: #0E44C2;
+}
+
+.main-picture-library {
+    width: 100%
+    
+}
+
+footer {
+    display:grid;
+    color:#d7deff;
+    background-color: #0E44C2;
+    margin-top: 200px;
+    padding: 25px 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+footer .social img {
+    padding-top: 15px;
+    margin-top: 200px;
+
+}
+
+.doctrine-searcher-footer {
+    grid-column: 4;
+    margin-right: 200px;
+    font-size: 30px;
+    font-family: 'Archivo';
+    color: #E2B328;
+}
+
+.site-plan-link {
+    font-size: 30px;
+    color:#E2B328;
+    text-decoration: none;
+    font-family: 'Archivo';
+}
+
+.social-media-links {
+    grid-row: 2;
+    grid-column: 7;
+}
+
+.twitter-link > img {
+    width: 100px;
+    
+}
+
+.facebook-link > img {
+    width: 100px;
+}
+
+.instagram-link > img {
+    width: 100px;
+}
+
+.logo-link-footer > img {
+    height: 200px;
+}
+
+h1 {
+    font-size: 50px;
+    margin-left: 50px;
+    color: black;
+}
+
+.first-content-box {
+    display:grid;
+    grid-column: repeat(4, 1fr);
+    grid-column-gap: 20px;
+}
+
+.home-paragraph-one {
+    grid-column: 1;
+    font-size: 35px;
+    margin-left: 50px;
+    color: black;
+}
+
+
+.first-home-image {
+    grid-column: 4;
+    width: 800px;
+    margin-right: 50px;
+}
+
+.second-content-box {
+    display: grid;
+    grid-column: repeat(4, 1fr);
+    grid-column-gap: 20px;
+}
+
+.home-paragraph-two {
+    font-size: 35px;
+    grid-column: 4;
+    margin-right: 50px;
+    color: black;
+}
+
+.second-home-image {
+    grid-row: 1;
+    width: 800px;
+    margin-left: 50px;
+}
